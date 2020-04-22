@@ -13,6 +13,9 @@ from leaguedirector.widgets import userpath
 from PySide2.QtCore import *
 from PySide2.QtNetwork import *
 
+''' 
+new comment2
+'''
 
 class Resource(QObject):
     """
